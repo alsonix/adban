@@ -27,7 +27,6 @@
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 idsync-ext.rlcdn.com
-0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 d361oi6ppvq2ym.cloudfront.net
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 ads-west-colo.adsymptotic.com
