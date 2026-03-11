@@ -73,4 +73,3 @@
 0.0.0.0 rv.e621.net
 0.0.0.0 a.nova.cz
 0.0.0.0 c.seznam.cz
-0.0.0.0 ad.doubleclick.net
